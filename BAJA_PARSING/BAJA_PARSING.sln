@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BAJA_PARSING", "BAJA_PARSING\BAJA_PARSING.pyproj", "{82B93C31-85CD-4CDD-B926-CCB492E5D262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B93C31-85CD-4CDD-B926-CCB492E5D262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B93C31-85CD-4CDD-B926-CCB492E5D262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677838D5-2860-4D6C-AD9B-3ABE50560FF2}
+	EndGlobalSection
+EndGlobal
